@@ -647,10 +647,11 @@ http://46.105.116.159:1935/cellcast/encoder72/.m3u8
  
 #EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Bella Club
  
+
  
+#EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV LIST[/COLOR]
+http://www.xacttv.ca
  
-#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow] LATINO IPTV LIST[/COLOR]
-plugin://plugin.video.youtube/
  
 #EXTINF:-1,TELECINCO
  
