@@ -58,6 +58,12 @@ plugin://plugin.video.youtube/
  
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero ofcial[/COLOR]
 http://www.xacttv.ca
+
+#EXTINF:-1,UNIVISION / TDN1
+rtmp://$OPT:rtmp-raw=rtmp://109.123.116.138/live playpath=anahii?id=5286&pk=e6bd9181131166653c78cb3b46e287224705aa08d4bef46a477107cd9c15dfb1 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/embedplayer/ANAHIi/1/660/400 conn=S:OK --live
+
+#EXTINF:-1,UNIVISION / TDN2
+rtmp://$OPT:rtmp-raw=rtmp://198.144.148.120:1935/boxlivetv playpath=pirloudn swfUrl=http://www.boxlivetv.net/mainsite/player-hd.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=pirloudn&width=660&height=400 
  
  
 #EXTINF:-1,ANTENA 3
@@ -196,10 +202,6 @@ http://213.13.26.7:1936/live/etv_direto/livestream.m3u8
  
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
  
-#EXTINF:0,Univision
- 
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
- 
 #EXTINF:-1,Caracol Colombia
  
 http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8#megaIPTVArgentina
@@ -331,37 +333,6 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,C5N Argentina
  
 http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
- 
-#EXTINF:-1,TN Argentina
- 
-rtsp://stream.tn.com.ar/live/tnhd1
- 
-#EXTINF:-1,HCH Honduras
- 
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-
-#EXTINF:-1,BARCA TV
-http://test1258:test1258@tdt.mine.nu:8000/44.ch BARCA TV
-#EXTINF:-1,CANAL LIGA HD
-http://test1258:test1258@tdt.mine.nu:8000/45.ch CANAL LIGA HD
-#EXTINF:-1,C+ LIGA
-http://test1258:test1258@tdt.mine.nu:8000/46.ch C+ LIGA
-#EXTINF:-1,CANAL LIGA 2
-http://test1258:test1258@tdt.mine.nu:8000/47.ch CANAL LIGA 2
-#EXTINF:-1,C+ FUTBOL
-http://test1258:test1258@tdt.mine.nu:8000/48.ch C+ FUTBOL
-#EXTINF:-1,C+ DEPORTE
-http://test1258:test1258@tdt.mine.nu:8000/49.ch C+ DEPORTE
-#EXTINF:-1,CANAL + DEPORTES 2
-http://test1258:test1258@tdt.mine.nu:8000/50.ch CANAL + DEPORTES 2
-#EXTINF:-1,CANAL+ GOLF
-http://test1258:test1258@tdt.mine.nu:8000/51.ch CANAL+ GOLF
-#EXTINF:-1,EUROSPORT-ES
-http://test1258:test1258@tdt.mine.nu:8000/52.ch EUROSPORT-ES
-#EXTINF:-1,EUROSPORT2 ESP
-http://test1258:test1258@tdt.mine.nu:8000/53.ch EUROSPORT2 ESP
-#EXTINF:-1,TDP HD
-http://test1258:test1258@tdt.mine.nu:8000/54.ch
 
 
 #EXTINF:-1, tvg-logo="iptvlogo.png", [COLOR yellow] VARIOUS STREAMS [/COLOR]
