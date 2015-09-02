@@ -59,13 +59,6 @@ plugin://plugin.video.youtube/
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero ofcial X ACT TV & TV PLUS[/COLOR]
 http://www.xacttv.ca
 
-#EXTINF:-1,UNIVISION / TDN1
-http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/embedplayer/ANAHIi/1/660/400 conn=S:OK --live
-
-#EXTINF:-1,UNIVISION / TDN2
-http://www.boxlivetv.net/mainsite/player-hd.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=pirloudn&width=660&height=400 
- 
- 
 #EXTINF:-1,ANTENA 3
  
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
