@@ -56,7 +56,7 @@ rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://playe
 plugin://plugin.video.youtube/
 
  
-#EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero ofcial X ACT TV & TV PLUS[/COLOR]
+#EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero oficial X ACT TV & TV PLUS[/COLOR]
 http://www.xacttv.ca
 
 #EXTINF:-1,ANTENA 3
