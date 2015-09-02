@@ -56,14 +56,14 @@ rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://playe
 plugin://plugin.video.youtube/
 
  
-#EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero ofcial[/COLOR]
+#EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero ofcial X ACT TV & TV PLUS[/COLOR]
 http://www.xacttv.ca
 
 #EXTINF:-1,UNIVISION / TDN1
-rtmp://$OPT:rtmp-raw=rtmp://109.123.116.138/live playpath=anahii?id=5286&pk=e6bd9181131166653c78cb3b46e287224705aa08d4bef46a477107cd9c15dfb1 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/embedplayer/ANAHIi/1/660/400 conn=S:OK --live
+http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/embedplayer/ANAHIi/1/660/400 conn=S:OK --live
 
 #EXTINF:-1,UNIVISION / TDN2
-rtmp://$OPT:rtmp-raw=rtmp://198.144.148.120:1935/boxlivetv playpath=pirloudn swfUrl=http://www.boxlivetv.net/mainsite/player-hd.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=pirloudn&width=660&height=400 
+http://www.boxlivetv.net/mainsite/player-hd.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=pirloudn&width=660&height=400 
  
  
 #EXTINF:-1,ANTENA 3
