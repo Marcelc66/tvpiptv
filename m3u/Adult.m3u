@@ -10,7 +10,7 @@ http://www.xacttv.ca
 http://www.xacttv.ca
  
 
-#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow] ALL ADULT XXX[/COLOR]
+#EXTINF:-1,[COLOR yellow] ALL ADULT XXX[/COLOR]
 plugin://plugin.video.youtube/
  
  
