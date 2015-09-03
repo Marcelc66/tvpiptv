@@ -12,17 +12,6 @@ http://www.xacttv.ca
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]CANADA ENGLISH IPTV LIST[/COLOR]
 http://www.xacttv.ca
  
-#EXTINF:-1, Lethbridge
-http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
- 
-#EXTINF:-1, CFCN Edmonton
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
- 
-#EXTINF:-1, CFCN Yorkton
-http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
- 
-#EXTINF:-1, CFCN Regina
-http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
  
 #EXTINF:-1, The Weather Network
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
