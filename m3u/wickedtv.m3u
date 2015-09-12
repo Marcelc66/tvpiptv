@@ -44,7 +44,81 @@ rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://playe
 #EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow] USA COMING SOON[/COLOR]
 plugin://plugin.video.youtube/
 
- 
+#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow]ROMANIAN IPTV LIST[/COLOR]
+plugin://plugin.video.youtube/
+
+#EXTINF:-1,DIGI 24
+ http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+ #EXTINF:-1, Jurnal TV
+ http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+ #EXTINF:-1, MBC HD
+ http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+ #EXTINF:-1, Moldova 1
+ http://87.248.160.8/edge/smil:m1/playlist.m3u8
+ #EXTINF:-1, Boet
+ http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ #EXTINF:-1, Prime
+ http://87.248.160.8/edge/smil:prime/playlist.m3u8
+ #EXTINF:-1,Pro Tv
+ http://87.248.160.8/edge/smil:protv/playlist.m3u8
+ #EXTINF:-1, Pro Tv Priveste Chisinau
+ http://87.248.160.8/edge/smil:protv/playlist.m3u8
+ #EXTINF:-1, Publika TV
+ http://87.248.160.8/edge/smil:publica/playlist.m3u8
+ #EXTINF:-1, Realitatea TV
+ http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+ #EXTINF:-1, TVC 21
+ http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+ #EXTINF:-1, TVR
+ http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+ #EXTINF:-1,M1
+ http://87.248.160.8/edge/smil:m1/playlist.m3u8
+ #EXTINF:-1,TVR
+ http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+ #EXTINF:-1,Bravo
+ http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+ #EXTINF:-1,RTR
+ http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+ #EXTINF:-1,N4
+ http://87.248.160.8/edge/smil:n4/playlist.m3u8
+ #EXTINF:-1,Tvc21
+ http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+ #EXTINF:-1,CTC
+ http://87.248.160.8/edge/smil:sts/playlist.m3u8
+ #EXTINF:-1,Fight
+ http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ #EXTINF:-1,Super Tv
+ http://87.248.160.8/edge/smil:set/playlist.m3u8
+ #EXTINF:-1,Alt Tv
+ http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+ #EXTINF:-1,Accent
+ http://87.248.160.8/edge/smil:accent/playlist.m3u8
+ #EXTINF:-1,Sor Tv
+ http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+ #EXTINF:-1,Ren Tv
+ http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+ #EXTINF:-1,Noroc Tv
+ http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+ #EXTINF:-1,Busuioc Tv
+ http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+ #EXTINF:-1,Gold Tv
+ http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+ #EXTINF:-1,2Plus Tv
+ http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+ #EXTINF:-1,Canal 3
+ http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+ #EXTINF:-1,Animaux
+ http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+ #EXTINF:-1,Science & Vie Tv
+ http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+ #EXTINF:-1,Jurnal Tv 720P
+ rtmp://87.248.160.8:80/edge/mp4:jurnaltv.stream_720p
+ #EXTINF:-1,Science & Vie Tv 720P
+ rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+ #EXTINF:-1,Animaux 720P
+ rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
+
+
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]LATINO IPTV ** MUNDO TV ** (514) 500-1626 compañero oficial X ACT TV & TV PLUS[/COLOR]
 http://www.xacttv.ca
 
