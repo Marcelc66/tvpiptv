@@ -1,12 +1,12 @@
 #EXTM3U
  
-#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR blue] TV PLUS IPTV LIST[/COLOR]
+#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR green]TV PLUS IPTV LIST[/COLOR]
 http://www.xacttv.ca
  
-#EXTINF:-1, [COLOR red]Coded by Mr."WICKED"[/COLOR]
+#EXTINF:-1, [COLOR blue]Coded by Mr."WICKED"[/COLOR]
 http://www.xacttv.ca
  
-#EXTINF:-1, ***IMPORTANT PLEASE READ*** WICKED IPTV is a new feature & links may go down as we get set up please use MOBDRO in the favourites section or other ADD-Ons in the TV PLUS section until we get everything running smoothly[/COLOR]
+#EXTINF:-1, [COLOR blue]***IMPORTANT PLEASE READ*** WICKED IPTV is a new feature & links may go down until we get everything running smoothly[/COLOR]
 http://www.xacttv.ca
  
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]CANADA ENGLISH IPTV LIST[/COLOR]
