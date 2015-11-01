@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR green]TV PLUS IPTV LIST[/COLOR]
+#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow]TV PLUS IPTV LIST[/COLOR]
 http://www.xacttv.ca
  
 #EXTINF:-1, [COLOR blue]Coded by Mr."WICKED"[/COLOR]
