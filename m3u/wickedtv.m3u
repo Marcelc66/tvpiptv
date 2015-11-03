@@ -9,25 +9,6 @@ http://www.xacttv.ca
 #EXTINF:-1, CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 
-
-#EXTINF:-1, CBC News (canada)
-rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
-
-#EXTINF:-1, CTV NEWS
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
-
-#EXTINF:-1, CFCN Yorkton
-http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
- 
-#EXTINF:-1, CFCN Edmonton
-http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
- 
-#EXTINF:-1, CFCN Regina
-http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
- 
-#EXTINF:-1, CFCN Lethbridge
-http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
-
 #EXTINF:-1, TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
  
