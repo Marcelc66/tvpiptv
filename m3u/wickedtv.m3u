@@ -1,15 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR green]TV PLUS IPTV LIST[/COLOR]
-
+http://www.xacttv.ca
  
 #EXTINF:-1, [COLOR blue]Coded by Mr."WICKED"[/COLOR]
-
-#EXTINF:-1, [COLOR blue]These channels are under development, They will mostly NOT Work for the time being![/COLOR]
-
+http://www.xacttv.ca
 
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]CANADA ENGLISH IPTV LIST[/COLOR]
-
+http://www.tvplusmedia.com
  
 #EXTINF:-1, TSC The shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
@@ -17,16 +15,24 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 
  
 #EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow]CANADA FRENCH IPTV LIST[/COLOR]
-
+plugin://plugin.video.youtube/
 
 #EXTINF:-1, TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1,TVA (French)
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+ 
+#EXTINF:-1,ARGENT TV (French)
+rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/argent.html
 
-
+#EXTINF:-1, METRO TV (French)
+ rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
+ 
 #EXTINF:-1, tvg-logo="iptvlogo.png", [COLOR yellow] VARIOUS STREAMS [/COLOR]
-
+plugin://plugin.video.youtube/
+ 
+#EXTINF:-1, Bikini French (French)
+http://www.filmon.tv/tv/channel/bikini-kitchen?affid=129327Xx.m3u8
 
  
