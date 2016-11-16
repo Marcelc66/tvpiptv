@@ -27,6 +27,6 @@ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="iptvlogo.png", [COLOR yellow] VARIOUS STREAMS [/COLOR]
+#EXTINF:-1, tvg-logo="iptvlogo.png", [COLOR yellow] VARIOUS STREAMS COMING SOON[/COLOR]
 plugin://plugin.video.youtube/
 
