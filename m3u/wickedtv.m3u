@@ -6,44 +6,19 @@ http://www.xacttv.ca
 #EXTINF:-1, [COLOR blue]Coded by Mr."WICKED"[/COLOR]
 http://www.xacttv.ca
 
-#EXTINF:-1, TVA
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1, ARGENT TV (French)
-rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/argent.html
-
-#EXTINF:-1, METRO TV (French)
-rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
-
-#EXTINF:-1, LCN (French)
-rtmp://cp39414.live.edgefcs.net/live/lcn1@9753/ playpath=lcn1@9753 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/lcn.html
-
-#EXTINF:-1, TV (French)
-rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
-
-#EXTINF:-1, CBC (english)
-rtmp://b.cdn.newschat.tv/edge pageUrl=http://www.livenewschat.eu/canada/?husham.com swfUrl=http://msnbclive.eu/player.swf playpath=cbc_live
-
-
-
-
- 
 #EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]CANADA ENGLISH IPTV LIST[/COLOR]
-http://www.xacttv.ca
- 
- 
-#EXTINF:-1, The Weather Network
-http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+http://www.tvplusmedia.com
  
 #EXTINF:-1, TSC The shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
  
- 
- 
+
  
 #EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow]CANADA FRENCH IPTV LIST[/COLOR]
 plugin://plugin.video.youtube/
 
+#EXTINF:-1, TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1,TVA (French)
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
@@ -56,15 +31,11 @@ rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfU
  
 #EXTINF:-1,LCN (French)
 rtmp://cp39414.live.edgefcs.net/live/lcn1@9753/ playpath=lcn1@9753 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/lcn.html
- 
-#EXTINF:-1,VTV (French)
-rtmp://cp101680.live.edgefcs.net/live playpath=livev_2@50832 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://tv.webactu-webtv.com/canada3/vtv.html
- 
-
 
 
 #EXTINF:-1, tvg-logo="iptvlogo.png", [COLOR yellow] VARIOUS STREAMS [/COLOR]
 plugin://plugin.video.youtube/
  
+ <a href="http://www.filmon.tv/tv/channel/bikini-kitchen?affid=129327Xx" >Bikini Kitchen</a>
 
  
