@@ -10,26 +10,14 @@ http://www.tvplusmedia.com
 http://www.tvplusmedia.com
 
 
-
-#EXTINF:-1, tvg-logo="iptvlisticon.png",[COLOR yellow]CANADA ENGLISH IPTV LIST[/COLOR]
-http://www.tvplusmedia.com
  
 #EXTINF:-1, TSC The shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
  
 
- 
-#EXTINF:-1, tvg-logo="iptvlisticon.png", [COLOR yellow]CANADA FRENCH IPTV LIST[/COLOR]
-plugin://plugin.video.youtube/
-
-#EXTINF:-1, TVA
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1,TVA #2
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-
-
 
 #EXTINF:-1, tvg-logo="iptvlogo.png", [COLOR yellow] VARIOUS STREAMS COMING SOON[/COLOR]
 plugin://plugin.video.youtube/
+
+
 
